@@ -41,3 +41,6 @@ The Book Manager API provides a simple and efficient way to manage your book col
 - Docker: Utilized for containerizing the application, ensuring consistent environments across development and production.
 - Docker Compose: Simplifies the management and deployment of multi-container applications, streamlining the build process.
 
+Author:
+- Mauro Castillo Rondinara
+
